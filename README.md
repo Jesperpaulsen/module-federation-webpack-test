@@ -1,5 +1,5 @@
 # Module Federation Test
-This code is written by following Stephen Grinders (MFE course)[https://www.udemy.com/course/microfrontend-course/].
+This code is written by following Stephen Grinders [MFE course](https://www.udemy.com/course/microfrontend-course/).
 
 ### Overview
 It consists of one container and 3 fragments app. The container and two of the apps are written in React, while the last one is written in Vue. 
